@@ -1,0 +1,7 @@
+* C:\users\abel\Desktop\Abel\Facu\Github Repositories\EverySound\Simulations\Filters\Scripts\Low Pass Filter.asc
+C1 0 Vo1 10p
+R1 Vi1 Vo1 1k
+V1 Vi1 0 V
+* Low Pass Filter
+.backanno
+.end
