@@ -25,6 +25,8 @@ These are test contraints example. That's must be changed due to routes width ar
 
 [MXR Distortion + Analysis](https://www.electrosmash.com/mxr-distortion-plus-analysis)
 
+[KiCad 4.0.7 - Clase 6 - Imprimir PCB y Serigrafía](https://www.youtube.com/watch?v=1kVmtgB8eXo)
+
 [KiCad 6: Ground Plane (Filled Zone)](https://www.youtube.com/watch?v=8NV5cuPbVm0)
 
 [Kicad Tutorial](https://www.youtube.com/watch?v=vtUj1Ba_ELk)
