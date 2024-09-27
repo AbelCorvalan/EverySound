@@ -2179,6 +2179,28 @@
 			)
 		)
 	)
+	(global_label "+4.5v"
+		(shape input)
+		(at 95.25 104.14 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "835edfdf-18e0-4b7c-a406-5cc05262e5b5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.25 112.689 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "+9v"
 		(shape input)
 		(at 254 25.4 0)
@@ -3930,72 +3952,6 @@
 			(project ""
 				(path "/b557fb06-934b-48c2-9159-d15d9c76352d"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 95.25 104.14 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c269d07e-f4b3-47ab-a483-5e0ec95c3e30")
-		(property "Reference" "#PWR02"
-			(at 95.25 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 95.25 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 95.25 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 95.25 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 95.25 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "74fab391-c7c3-452c-8ec1-6889ea742974")
-		)
-		(instances
-			(project "MXR Distortion"
-				(path "/b557fb06-934b-48c2-9159-d15d9c76352d"
-					(reference "#PWR02")
 					(unit 1)
 				)
 			)
