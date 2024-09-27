@@ -8,12 +8,18 @@ In the follow image we can see the constraints implemented.
 
 ![Constraints](img/constraints.png)
 
-These are test contratins example. That's must be changed due to routes width are low.
+These are test contraints example. That's must be changed due to routes width are low.
 
 ## Considerations
 
 - Implement footswitch in the input circuit. One connection to the distortion circuit, other to clean signal.
 
+
+## Board
+
+![alt text](img/PCB.png)
+
+- Remove Jacks 3.5mm. Connections through wires.
 
 ## References
 
@@ -26,6 +32,8 @@ These are test contratins example. That's must be changed due to routes width ar
 [Kicad 6: Set Grid Origin](https://www.youtube.com/watch?v=jXpuGUENB9k)
 
 [Kicad Ground Planes Tutorial (1m)](https://www.youtube.com/watch?v=DNTgrTukltw)
+
+[Adding Custom Logo on PCB | Add Logo under 5 minutes | KiCAD Beginners](https://www.youtube.com/watch?v=dcou-_67rO8)
 
 [PCB Designing - Layout measurement (KiCAD in English)](https://www.youtube.com/watch?v=AhPa2fO74DI)
 
