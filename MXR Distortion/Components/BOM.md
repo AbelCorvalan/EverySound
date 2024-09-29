@@ -29,3 +29,6 @@
 - **Capacitores**: Los capacitores cerámicos y de poliéster pueden tener un voltaje de 50V, mientras que los electrolíticos pueden tener un valor de 25V (o mayor, dependiendo de la disponibilidad).
 - **Diodos**: Si no encuentras los diodos de germanio 1N270, los 1N34A o 1N60 también funcionan y proporcionan una respuesta similar en el clipping del audio.
 
+Gasto total= (14014.79+479.04-2661.84+((622.3+834.9)/2))
+
+Gasto c/u= 4186.9

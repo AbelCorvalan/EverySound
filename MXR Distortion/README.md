@@ -41,3 +41,14 @@ These are test contraints example. That's must be changed due to routes width ar
 
 [#10 How To Do PCB Routing In KiCad 7.0 with Basic PCB Design Rules | #PCBCupid](https://www.youtube.com/watch?v=9HpYpP2L10A)
 
+How to generate GRB and DRL files in Kicad.
+
+[#12 How To Generate Gerber file In KiCad 7.0 | #PCBCupid](https://www.youtube.com/watch?v=C_UdqlUmDNA)
+
+[Kicad básico 10: generar gerber files - archivos de fabricación](https://www.youtube.com/watch?v=RkhuAnc5-zI)
+
+How to work on FlatCAM (CNC Milling Machine)
+
+[Convertir Archivos Gerber a GCode (Grabar, Perforar y Cortar PCB) para CNC | FlatCAM](https://www.youtube.com/watch?v=OVI79Wyxb7g)
+
+[Uso Básico del software FLATCAM](https://www.youtube.com/watch?v=9nUkhNwo3yI)
